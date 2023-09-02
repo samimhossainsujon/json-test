@@ -1,0 +1,979 @@
+[
+  {
+    "title": "ভূমি প্রশাসন প্রশিক্ষণ কেন্দ্র এ নিয়োগ বিজ্ঞপ্তি প্রকাশিত",
+    "subtitle": "Architecting, Designing, and Deploying on the Snowflake Data Cloud",
+    "_id": "1",
+    "status": "TeacherJob",
+    "image": "https://alljobs.teletalk.com.bd/media/recruiter/organization/logo/DGFPMAG_jRuP4nc.png"
+  },
+  {
+    "title": "সিভিল সার্জন অফিস,নিয়োগ নারায়ণগঞ্জ বিজ্ঞপ্তি প্রকাশিত",
+    "subtitle": "Data Wrangling with pandas, NumPy, and Jupyter",
+    "_id": "2",
+    "status": "TeacherJob",
+    "image": "https://alljobs.teletalk.com.bd/media/recruiter/organization/logo/DGFPMAG_jRuP4nc.png"
+  },
+  {
+    "title": "বাংলাদেশ বিদ্যুৎ উন্নয়ন বোর্ড (BPDB) এ নিয়োগ বিজ্ঞপ্তি প্রকাশিত",
+    "subtitle": "Applying SRE Principles to ML in Production",
+    "_id": "2",
+    "status": "TeacherJob",
+    "image": "https://alljobs.teletalk.com.bd/media/recruiter/organization/logo/DGFPMAG_jRuP4nc.png"
+  },
+  {
+    "title": "Data Visualization with Python and JavaScript, 2nd Edition",
+    "subtitle": "Scrape, Clean, Explore, and Transform Your Data",
+    "_id": "4",
+    "status": "RailwayJobs",
+    "image": "https://alljobs.teletalk.com.bd/media/recruiter/organization/logo/DGFPMAG_jRuP4nc.png"
+  },
+  {
+    "title": "Learning Microsoft Power BI",
+    "subtitle": "Transforming Data into Insights",
+    "_id": "5",
+    "status": "RailwayJobs",
+    "image": "https://alljobs.teletalk.com.bd/media/recruiter/organization/logo/DGFPMAG_jRuP4nc.png"
+  },
+  {
+    "title": "C++ Software Design",
+    "subtitle": "Design Principles and Patterns for High-Quality Software",
+    "_id": "6",
+    "status": "RailwayJobs",
+    "image": "https://alljobs.teletalk.com.bd/media/recruiter/organization/logo/DGFPMAG_jRuP4nc.png"
+  },
+  {
+    "title": "Terraform: Up and Running, 3rd Edition",
+    "subtitle": "Writing Infrastructure as Code",
+    "_id": "7",
+    "status": "HealthJobs",
+    "image": "https://alljobs.teletalk.com.bd/media/recruiter/organization/logo/DGFPMAG_jRuP4nc.png"
+  },
+  {
+    "title": "Flutter and Dart Cookbook",
+    "subtitle": "Developing Full-Stack Applications for the Cloud",
+    "_id": "8",
+    "status": "HealthJobs",
+    "image": "https://alljobs.teletalk.com.bd/media/recruiter/organization/logo/DGFPMAG_jRuP4nc.png"
+  },
+  {
+    "title": "Python Data Science Handbook, 2nd Edition",
+    "subtitle": "Essential Tools for Working with Data",
+    "_id": "9",
+    "status": "HealthJobs",
+    "image": "https://alljobs.teletalk.com.bd/media/recruiter/organization/logo/DGFPMAG_jRuP4nc.png"
+  },
+  {
+    "title": "Raspberry Pi Cookbook, 4th Edition",
+    "subtitle": "Software and Hardware Problems and Solutions",
+    "_id": "10",
+    "status": "UniversityJobs",
+    "image": "https://alljobs.teletalk.com.bd/media/recruiter/organization/logo/DGFPMAG_jRuP4nc.png"
+  },
+  {
+    "title": "Azure Maps Using Blazor Succinctly",
+    "subtitle": "",
+    "_id": "11",
+    "status": "UniversityJobs",
+    "image": "https://alljobs.teletalk.com.bd/media/recruiter/organization/logo/DGFPMAG_jRuP4nc.png"
+  },
+  {
+    "title": "Full Stack Quarkus and React",
+    "subtitle": "Hands-on full stack web development with Java, React, and Kubernetes",
+    "_id": "12",
+    "status": "UniversityJobs",
+    "image": "https://alljobs.teletalk.com.bd/media/recruiter/organization/logo/DGFPMAG_jRuP4nc.png"
+  },
+  {
+    "title": "ন্যাশনাল ইনস্টিটিউট অফ বায়োটেকনোলজি (NIBF) নিয়োগ বিজ্ঞপ্তি প্রকাশিত",
+    "subtitle": "Explore  rendering, and m",
+    "_id": "13",
+    "status": "EngineerJobs",
+    "image": "https://alljobs.teletalk.com.bd/media/recruiter/organization/logo/DGFPMAG_jRuP4nc.png"
+  },
+  {
+    "title": "ন্যাশনাল ইনস্টিটিউট অফ বায়োটেকনোলজি (NIBF) নিয়োগ বিজ্ঞপ্তি প্রকাশিত",
+    "subtitle": "Design, develop, and debug complex FPGA-based systems-on-chip",
+    "_id": "14",
+    "status": "EngineerJobs",
+    "image": "https://alljobs.teletalk.com.bd/media/recruiter/organization/logo/DGFPMAG_jRuP4nc.png"
+  },
+  {
+    "title": "Web Development with Julia and Genie",
+    "subtitle": "A hands-on guide to high-performance server-side web development with the Julia programming language",
+    "_id": "15",
+    "status": "EngineerJobs",
+    "image": "https://alljobs.teletalk.com.bd/media/recruiter/organization/logo/DGFPMAG_jRuP4nc.png"
+  },
+  {
+    "title": "Java Memory Management",
+    "subtitle": "A comprehensive guide to garbage collection and JVM tuning",
+    "_id": "16",
+    "status": "Diploma&Engineering",
+    "image": "https://alljobs.teletalk.com.bd/media/recruiter/organization/logo/DGFPMAG_jRuP4nc.png"
+  },
+  {
+    "title": "Test-Driven Development with C++",
+    "subtitle": "A simple guide to writing bug-free Agile code",
+    "_id": "17",
+    "status": "Diploma&Engineering",
+    "image": "https://alljobs.teletalk.com.bd/media/recruiter/organization/logo/DGFPMAG_jRuP4nc.png"
+  },
+  {
+    "title": "Software Test Design",
+    "subtitle": "Write comprehensive test plans to uncover critical bugs in web, desktop, and mobile apps",
+    "_id": "18",
+    "status": "Diploma&Engineering",
+    "image": "https://alljobs.teletalk.com.bd/media/recruiter/organization/logo/DGFPMAG_jRuP4nc.png"
+  },
+  {
+    "title": "Microservices with Go",
+    "subtitle": "Building scalable and reliable microservices with Go",
+    "_id": "19",
+    "status": "BankJob",
+    "image": "https://alljobs.teletalk.com.bd/media/recruiter/organization/logo/DGFPMAG_jRuP4nc.png"
+  },
+
+  {
+    "title": "Modern Frontend Development with Node.js",
+    "subtitle": "A compendium for modern JavaScript web development within the Node.js ecosystem",
+    "_id": "20",
+    "status": "BankJob",
+    "image": "https://alljobs.teletalk.com.bd/media/recruiter/organization/logo/DGFPMAG_jRuP4nc.png"
+  },
+
+  {
+    "title": "Modern Frontend Development with Node.js",
+    "subtitle": "A compendium for modern JavaScript web development within the Node.js ecosystem",
+    "_id": "21",
+    "status": "BankJob",
+    "image": "https://alljobs.teletalk.com.bd/media/recruiter/organization/logo/DGFPMAG_jRuP4nc.png"
+  },
+
+  {
+    "title": "Modern Frontend Development with Node.js",
+    "subtitle": "A compendium for modern JavaScript web development within the Node.js ecosystem",
+    "_id": "22",
+    "status": "NGOJob",
+    "image": "https://alljobs.teletalk.com.bd/media/recruiter/organization/logo/DGFPMAG_jRuP4nc.png"
+  },
+
+  {
+    "title": "Modern Frontend Development with Node.js",
+    "subtitle": "A compendium for modern JavaScript web development within the Node.js ecosystem",
+    "_id": "23",
+    "status": "NGOJob",
+    "image": "https://alljobs.teletalk.com.bd/media/recruiter/organization/logo/DGFPMAG_jRuP4nc.png"
+  },
+
+  {
+    "title": "Modern Frontend Development with Node.js",
+    "subtitle": "A compendium for modern JavaScript web development within the Node.js ecosystem",
+    "_id": "24",
+    "status": "NGOJob",
+    "image": "https://alljobs.teletalk.com.bd/media/recruiter/organization/logo/DGFPMAG_jRuP4nc.png"
+  },
+
+  {
+    "title": "Modern Frontend Development with Node.js",
+    "subtitle": "A compendium for modern JavaScript web development within the Node.js ecosystem",
+    "_id": "25",
+    "status": "MediaJob",
+    "image": "https://alljobs.teletalk.com.bd/media/recruiter/organization/logo/DGFPMAG_jRuP4nc.png"
+  },
+
+  {
+    "title": "Modern Frontend Development with Node.js",
+    "subtitle": "A compendium for modern JavaScript web development within the Node.js ecosystem",
+    "_id": "26",
+    "status": "MediaJob",
+    "image": "https://alljobs.teletalk.com.bd/media/recruiter/organization/logo/DGFPMAG_jRuP4nc.png"
+  },
+
+  {
+    "title": "Modern Frontend Development with Node.js",
+    "subtitle": "A compendium for modern JavaScript web development within the Node.js ecosystem",
+    "_id": "27",
+    "status": "MediaJob",
+    "image": "https://alljobs.teletalk.com.bd/media/recruiter/organization/logo/DGFPMAG_jRuP4nc.png"
+  },
+  {
+    "title": "Modern Frontend Development with Node.js",
+    "subtitle": "A compendium for modern JavaScript web development within the Node.js ecosystem",
+    "_id": "28",
+    "status": "BeautyCare&FitnessJob",
+    "image": "https://alljobs.teletalk.com.bd/media/recruiter/organization/logo/DGFPMAG_jRuP4nc.png"
+  },
+
+  {
+    "title": "Modern Frontend Development with Node.js",
+    "subtitle": "A compendium for modern JavaScript web development within the Node.js ecosystem",
+    "_id": "29",
+    "status": "BeautyCare&FitnessJob",
+    "image": "https://alljobs.teletalk.com.bd/media/recruiter/organization/logo/DGFPMAG_jRuP4nc.png"
+  },
+
+  {
+    "title": "Modern Frontend Development with Node.js",
+    "subtitle": "A compendium for modern JavaScript web development within the Node.js ecosystem",
+    "_id": "30",
+    "status": "BeautyCare&FitnessJob",
+    "image": "https://alljobs.teletalk.com.bd/media/recruiter/organization/logo/DGFPMAG_jRuP4nc.png"
+  },
+
+  {
+    "title": "Modern Frontend Development with Node.js",
+    "subtitle": "A compendium for modern JavaScript web development within the Node.js ecosystem",
+    "_id": "31",
+    "status": "CallCenterJob",
+    "image": "https://alljobs.teletalk.com.bd/media/recruiter/organization/logo/DGFPMAG_jRuP4nc.png"
+  },
+
+  {
+    "title": "Modern Frontend Development with Node.js",
+    "subtitle": "A compendium for modern JavaScript web development within the Node.js ecosystem",
+    "_id": "32",
+    "status": "CallCenterJob",
+    "image": "https://alljobs.teletalk.com.bd/media/recruiter/organization/logo/DGFPMAG_jRuP4nc.png"
+  },
+
+  {
+    "title": "Modern Frontend Development with Node.js",
+    "subtitle": "A compendium for modern JavaScript web development within the Node.js ecosystem",
+    "_id": "33",
+    "status": "CallCenterJob",
+    "image": "https://alljobs.teletalk.com.bd/media/recruiter/organization/logo/DGFPMAG_jRuP4nc.png"
+  },
+
+  {
+    "title": "Modern Frontend Development with Node.js",
+    "subtitle": "A compendium for modern JavaScript web development within the Node.js ecosystem",
+    "_id": "34",
+    "status": "PartTimeJob",
+    "image": "https://alljobs.teletalk.com.bd/media/recruiter/organization/logo/DGFPMAG_jRuP4nc.png"
+  },
+
+  {
+    "title": "Modern Frontend Development with Node.js",
+    "subtitle": "A compendium for modern JavaScript web development within the Node.js ecosystem",
+    "_id": "35",
+    "status": "PartTimeJob",
+    "image": "https://alljobs.teletalk.com.bd/media/recruiter/organization/logo/DGFPMAG_jRuP4nc.png"
+  },
+
+  {
+    "title": "Modern Frontend Development with Node.js",
+    "subtitle": "A compendium for modern JavaScript web development within the Node.js ecosystem",
+    "_id": "36",
+    "status": "PartTimeJob",
+    "image": "https://alljobs.teletalk.com.bd/media/recruiter/organization/logo/DGFPMAG_jRuP4nc.png"
+  },
+  {
+    "title": "Modern Frontend Development with Node.js",
+    "subtitle": "A compendium for modern JavaScript web development within the Node.js ecosystem",
+    "_id": "37",
+    "status": "Sales&MarketingJob",
+    "image": "https://alljobs.teletalk.com.bd/media/recruiter/organization/logo/DGFPMAG_jRuP4nc.png"
+  },
+
+  {
+    "title": "Modern Frontend Development with Node.js",
+    "subtitle": "A compendium for modern JavaScript web development within the Node.js ecosystem",
+    "_id": "38",
+    "status": "Sales&MarketingJob",
+    "image": "https://alljobs.teletalk.com.bd/media/recruiter/organization/logo/DGFPMAG_jRuP4nc.png"
+  },
+
+  {
+    "title": "Modern Frontend Development with Node.js",
+    "subtitle": "A compendium for modern JavaScript web development within the Node.js ecosystem",
+    "_id": "39",
+    "status": "Sales&MarketingJob",
+    "image": "https://alljobs.teletalk.com.bd/media/recruiter/organization/logo/DGFPMAG_jRuP4nc.png"
+  },
+
+  {
+    "title": "Modern Frontend Development with Node.js",
+    "subtitle": "A compendium for modern JavaScript web development within the Node.js ecosystem",
+    "_id": "40",
+    "status": "Sales&MarketingJob",
+    "image": "https://alljobs.teletalk.com.bd/media/recruiter/organization/logo/DGFPMAG_jRuP4nc.png"
+  },
+
+  {
+    "title": "Modern Frontend Development with Node.js",
+    "subtitle": "A compendium for modern JavaScript web development within the Node.js ecosystem",
+    "_id": "41",
+    "status": "GarmentsTextileJob",
+    "image": "https://alljobs.teletalk.com.bd/media/recruiter/organization/logo/DGFPMAG_jRuP4nc.png"
+  },
+
+  {
+    "title": "Modern Frontend Development with Node.js",
+    "subtitle": "A compendium for modern JavaScript web development within the Node.js ecosystem",
+    "_id": "42",
+    "status": "GarmentsTextileJob",
+    "image": "https://alljobs.teletalk.com.bd/media/recruiter/organization/logo/DGFPMAG_jRuP4nc.png"
+  },
+
+  {
+    "title": "Modern Frontend Development with Node.js",
+    "subtitle": "A compendium for modern JavaScript web development within the Node.js ecosystem",
+    "_id": "43",
+    "status": "GarmentsTextileJob",
+    "image": "https://alljobs.teletalk.com.bd/media/recruiter/organization/logo/DGFPMAG_jRuP4nc.png"
+  },
+
+  {
+    "title": "Modern Frontend Development with Node.js",
+    "subtitle": "A compendium for modern JavaScript web development within the Node.js ecosystem",
+    "_id": "44",
+    "status": "DefenseJobs",
+    "image": "https://alljobs.teletalk.com.bd/media/recruiter/organization/logo/DGFPMAG_jRuP4nc.png"
+  },
+
+  {
+    "title": "Modern Frontend Development with Node.js",
+    "subtitle": "A compendium for modern JavaScript web development within the Node.js ecosystem",
+    "_id": "45",
+    "status": "DefenseJobs",
+    "image": "https://alljobs.teletalk.com.bd/media/recruiter/organization/logo/DGFPMAG_jRuP4nc.png"
+  },
+  {
+    "title": "Modern Frontend Development with Node.js",
+    "subtitle": "A compendium for modern JavaScript web development within the Node.js ecosystem",
+    "_id": "46",
+    "status": "DefenseJobs",
+    "image": "https://alljobs.teletalk.com.bd/media/recruiter/organization/logo/DGFPMAG_jRuP4nc.png"
+  },
+
+  {
+    "title": "Modern Frontend Development with Node.js",
+    "subtitle": "A compendium for modern JavaScript web development within the Node.js ecosystem",
+    "_id": "47",
+    "status": "ExamResult",
+    "image": "https://alljobs.teletalk.com.bd/media/recruiter/organization/logo/DGFPMAG_jRuP4nc.png"
+  },
+
+  {
+    "title": "Modern Frontend Development with Node.js",
+    "subtitle": "A compendium for modern JavaScript web development within the Node.js ecosystem",
+    "_id": "48",
+    "status": "ExamResult",
+    "image": "https://alljobs.teletalk.com.bd/media/recruiter/organization/logo/DGFPMAG_jRuP4nc.png"
+  },
+
+  {
+    "title": "Modern Frontend Development with Node.js",
+    "subtitle": "A compendium for modern JavaScript web development within the Node.js ecosystem",
+    "_id": "49",
+    "status": "ExamResult",
+    "image": "https://alljobs.teletalk.com.bd/media/recruiter/organization/logo/DGFPMAG_jRuP4nc.png"
+  },
+
+  {
+    "title": "Modern Frontend Development with Node.js",
+    "subtitle": "A compendium for modern JavaScript web development within the Node.js ecosystem",
+    "_id": "50",
+    "status": "ExamTime",
+    "image": "https://alljobs.teletalk.com.bd/media/recruiter/organization/logo/DGFPMAG_jRuP4nc.png"
+  },
+
+  {
+    "title": "Modern Frontend Development with Node.js",
+    "subtitle": "A compendium for modern JavaScript web development within the Node.js ecosystem",
+    "_id": "51",
+    "status": "ExamTime",
+    "image": "https://alljobs.teletalk.com.bd/media/recruiter/organization/logo/DGFPMAG_jRuP4nc.png"
+  },
+
+  {
+    "title": "Modern Frontend Development with Node.js",
+    "subtitle": "A compendium for modern JavaScript web development within the Node.js ecosystem",
+    "_id": "52",
+    "status": "ExamTime",
+    "image": "https://alljobs.teletalk.com.bd/media/recruiter/organization/logo/DGFPMAG_jRuP4nc.png"
+  },
+
+  {
+    "title": "Modern Frontend Development with Node.js",
+    "subtitle": "A compendium for modern JavaScript web development within the Node.js ecosystem",
+    "_id": "53",
+    "status": "AdmitCardDownload",
+    "image": "https://alljobs.teletalk.com.bd/media/recruiter/organization/logo/DGFPMAG_jRuP4nc.png"
+  },
+
+  {
+    "title": "Modern Frontend Development with Node.js",
+    "subtitle": "A compendium for modern JavaScript web development within the Node.js ecosystem",
+    "_id": "54",
+    "status": "AdmitCardDownload",
+    "image": "https://alljobs.teletalk.com.bd/media/recruiter/organization/logo/DGFPMAG_jRuP4nc.png"
+  },
+  {
+    "title": "Modern Frontend Development with Node.js",
+    "subtitle": "A compendium for modern JavaScript web development within the Node.js ecosystem",
+    "_id": "55",
+    "status": "AdmitCardDownload",
+    "image": "https://alljobs.teletalk.com.bd/media/recruiter/organization/logo/DGFPMAG_jRuP4nc.png"
+  },
+
+  {
+    "title": "Modern Frontend Development with Node.js",
+    "subtitle": "A compendium for modern JavaScript web development within the Node.js ecosystem",
+    "_id": "56",
+    "status": "AdmitCardDownload",
+    "image": "https://alljobs.teletalk.com.bd/media/recruiter/organization/logo/DGFPMAG_jRuP4nc.png"
+  },
+
+  {
+    "title": "Modern Frontend Development with Node.js",
+    "subtitle": "A compendium for modern JavaScript web development within the Node.js ecosystem",
+    "_id": "57",
+    "status": "AdmitCardDownload",
+    "image": "https://alljobs.teletalk.com.bd/media/recruiter/organization/logo/DGFPMAG_jRuP4nc.png"
+  },
+  {
+    "title": "Modern Frontend Development with Node.js",
+    "subtitle": "A compendium for modern JavaScript web development within the Node.js ecosystem",
+    "_id": "58",
+    "status": "AdmitCardDownload",
+    "image": "https://alljobs.teletalk.com.bd/media/recruiter/organization/logo/DGFPMAG_jRuP4nc.png"
+  },
+
+  {
+    "title": "Modern Frontend Development with Node.js",
+    "subtitle": "A compendium for modern JavaScript web development within the Node.js ecosystem",
+    "_id": "59",
+    "status": "AdmitCardDownload",
+    "image": "https://alljobs.teletalk.com.bd/media/recruiter/organization/logo/DGFPMAG_jRuP4nc.png"
+  },
+
+  {
+    "title": "Modern Frontend Development with Node.js",
+    "subtitle": "A compendium for modern JavaScript web development within the Node.js ecosystem",
+    "_id": "60",
+    "status": "AdmitCardDownload",
+    "image": "https://alljobs.teletalk.com.bd/media/recruiter/organization/logo/DGFPMAG_jRuP4nc.png"
+  },
+  {
+    "title": "Modern Frontend Development with Node.js",
+    "subtitle": "A compendium for modern JavaScript web development within the Node.js ecosystem",
+    "_id": "61",
+    "status": "AdmitCardDownload",
+    "image": "https://alljobs.teletalk.com.bd/media/recruiter/organization/logo/DGFPMAG_jRuP4nc.png"
+  },
+
+  {
+    "title": "Modern Frontend Development with Node.js",
+    "subtitle": "A compendium for modern JavaScript web development within the Node.js ecosystem",
+    "_id": "62",
+    "status": "AdmitCardDownload",
+    "image": "https://alljobs.teletalk.com.bd/media/recruiter/organization/logo/DGFPMAG_jRuP4nc.png"
+  },
+
+  {
+    "title": "Modern Frontend Development with Node.js",
+    "subtitle": "A compendium for modern JavaScript web development within the Node.js ecosystem",
+    "_id": "63",
+    "status": "AdmitCardDownload",
+    "image": "https://alljobs.teletalk.com.bd/media/recruiter/organization/logo/DGFPMAG_jRuP4nc.png"
+  },
+  {
+    "title": "Modern Frontend Development with Node.js",
+    "subtitle": "A compendium for modern JavaScript web development within the Node.js ecosystem",
+    "_id": "64",
+    "status": "AdmitCardDownload",
+    "image": "https://alljobs.teletalk.com.bd/media/recruiter/organization/logo/DGFPMAG_jRuP4nc.png"
+  },
+  {
+    "title": "Modern Frontend Development with Node.js",
+    "subtitle": "A compendium for modern JavaScript web development within the Node.js ecosystem",
+    "_id": "65",
+    "status": "AdmitCardDownload",
+    "image": "https://alljobs.teletalk.com.bd/media/recruiter/organization/logo/DGFPMAG_jRuP4nc.png"
+  },
+
+  {
+    "title": "Modern Frontend Development with Node.js",
+    "subtitle": "A compendium for modern JavaScript web development within the Node.js ecosystem",
+    "_id": "66",
+    "status": "AdmitCardDownload",
+    "image": "https://alljobs.teletalk.com.bd/media/recruiter/organization/logo/DGFPMAG_jRuP4nc.png"
+  },
+  {
+    "title": "Modern Frontend Development with Node.js",
+    "subtitle": "A compendium for modern JavaScript web development within the Node.js ecosystem",
+    "_id": "67",
+    "status": "AdmitCardDownload",
+    "image": "https://alljobs.teletalk.com.bd/media/recruiter/organization/logo/DGFPMAG_jRuP4nc.png"
+  },
+
+  {
+    "title": "Modern Frontend Development with Node.js",
+    "subtitle": "A compendium for modern JavaScript web development within the Node.js ecosystem",
+    "_id": "68",
+    "status": "AdmitCardDownload",
+    "image": "https://alljobs.teletalk.com.bd/media/recruiter/organization/logo/DGFPMAG_jRuP4nc.png"
+  },
+
+  {
+    "title": "Modern Frontend Development with Node.js",
+    "subtitle": "A compendium for modern JavaScript web development within the Node.js ecosystem",
+    "_id": "69",
+    "status": "AdmitCardDownload",
+    "image": "https://alljobs.teletalk.com.bd/media/recruiter/organization/logo/DGFPMAG_jRuP4nc.png"
+  },
+  {
+    "title": "Modern Frontend Development with Node.js",
+    "subtitle": "A compendium for modern JavaScript web development within the Node.js ecosystem",
+    "_id": "70",
+    "status": "AdmitCardDownload",
+    "image": "https://alljobs.teletalk.com.bd/media/recruiter/organization/logo/DGFPMAG_jRuP4nc.png"
+  },
+
+  {
+    "title": "Modern Frontend Development with Node.js",
+    "subtitle": "A compendium for modern JavaScript web development within the Node.js ecosystem",
+    "_id": "71",
+    "status": "AdmitCardDownload",
+    "image": "https://alljobs.teletalk.com.bd/media/recruiter/organization/logo/DGFPMAG_jRuP4nc.png"
+  },
+
+  {
+    "title": "Modern Frontend Development with Node.js",
+    "subtitle": "A compendium for modern JavaScript web development within the Node.js ecosystem",
+    "_id": "72",
+    "status": "AdmitCardDownload",
+    "image": "https://alljobs.teletalk.com.bd/media/recruiter/organization/logo/DGFPMAG_jRuP4nc.png"
+  },
+  {
+    "title": "Modern Frontend Development with Node.js",
+    "subtitle": "A compendium for modern JavaScript web development within the Node.js ecosystem",
+    "_id": "73",
+    "status": "AdmitCardDownload",
+    "image": "https://alljobs.teletalk.com.bd/media/recruiter/organization/logo/DGFPMAG_jRuP4nc.png"
+  },
+
+  {
+    "title": "Modern Frontend Development with Node.js",
+    "subtitle": "A compendium for modern JavaScript web development within the Node.js ecosystem",
+    "_id": "74",
+    "status": "AdmitCardDownload",
+    "image": "https://alljobs.teletalk.com.bd/media/recruiter/organization/logo/DGFPMAG_jRuP4nc.png"
+  },
+
+  {
+    "title": "Modern Frontend Development with Node.js",
+    "subtitle": "A compendium for modern JavaScript web development within the Node.js ecosystem",
+    "_id": "75",
+    "status": "AdmitCardDownload",
+    "image": "https://alljobs.teletalk.com.bd/media/recruiter/organization/logo/DGFPMAG_jRuP4nc.png"
+  },
+  {
+    "title": "Modern Frontend Development with Node.js",
+    "subtitle": "A compendium for modern JavaScript web development within the Node.js ecosystem",
+    "_id": "76",
+    "status": "AdmitCardDownload",
+    "image": "https://alljobs.teletalk.com.bd/media/recruiter/organization/logo/DGFPMAG_jRuP4nc.png"
+  },
+
+  {
+    "title": "Modern Frontend Development with Node.js",
+    "subtitle": "A compendium for modern JavaScript web development within the Node.js ecosystem",
+    "_id": "77",
+    "status": "AdmitCardDownload",
+    "image": "https://alljobs.teletalk.com.bd/media/recruiter/organization/logo/DGFPMAG_jRuP4nc.png"
+  },
+
+  {
+    "title": "Modern Frontend Development with Node.js",
+    "subtitle": "A compendium for modern JavaScript web development within the Node.js ecosystem",
+    "_id": "78",
+    "status": "AdmitCardDownload",
+    "image": "https://alljobs.teletalk.com.bd/media/recruiter/organization/logo/DGFPMAG_jRuP4nc.png"
+  },
+  {
+    "title": "Modern Frontend Development with Node.js",
+    "subtitle": "A compendium for modern JavaScript web development within the Node.js ecosystem",
+    "_id": "79",
+    "status": "AdmitCardDownload",
+    "image": "https://alljobs.teletalk.com.bd/media/recruiter/organization/logo/DGFPMAG_jRuP4nc.png"
+  },
+
+  {
+    "title": "Modern Frontend Development with Node.js",
+    "subtitle": "A compendium for modern JavaScript web development within the Node.js ecosystem",
+    "_id": "80",
+    "status": "AdmitCardDownload",
+    "image": "https://alljobs.teletalk.com.bd/media/recruiter/organization/logo/DGFPMAG_jRuP4nc.png"
+  },
+
+  {
+    "title": "Modern Frontend Development with Node.js",
+    "subtitle": "A compendium for modern JavaScript web development within the Node.js ecosystem",
+    "_id": "81",
+    "status": "AdmitCardDownload",
+    "image": "https://alljobs.teletalk.com.bd/media/recruiter/organization/logo/DGFPMAG_jRuP4nc.png"
+  },
+  {
+    "title": "Modern Frontend Development with Node.js",
+    "subtitle": "A compendium for modern JavaScript web development within the Node.js ecosystem",
+    "_id": "82",
+    "status": "AdmitCardDownload",
+    "image": "https://alljobs.teletalk.com.bd/media/recruiter/organization/logo/DGFPMAG_jRuP4nc.png"
+  },
+
+  {
+    "title": "Modern Frontend Development with Node.js",
+    "subtitle": "A compendium for modern JavaScript web development within the Node.js ecosystem",
+    "_id": "83",
+    "status": "AdmitCardDownload",
+    "image": "https://alljobs.teletalk.com.bd/media/recruiter/organization/logo/DGFPMAG_jRuP4nc.png"
+  },
+
+  {
+    "title": "Modern Frontend Development with Node.js",
+    "subtitle": "A compendium for modern JavaScript web development within the Node.js ecosystem",
+    "_id": "84",
+    "status": "AdmitCardDownload",
+    "image": "https://alljobs.teletalk.com.bd/media/recruiter/organization/logo/DGFPMAG_jRuP4nc.png"
+  },
+  {
+    "title": "Modern Frontend Development with Node.js",
+    "subtitle": "A compendium for modern JavaScript web development within the Node.js ecosystem",
+    "_id": "85",
+    "status": "AdmitCardDownload",
+    "image": "https://alljobs.teletalk.com.bd/media/recruiter/organization/logo/DGFPMAG_jRuP4nc.png"
+  },
+
+  {
+    "title": "Modern Frontend Development with Node.js",
+    "subtitle": "A compendium for modern JavaScript web development within the Node.js ecosystem",
+    "_id": "86",
+    "status": "AdmitCardDownload",
+    "image": "https://alljobs.teletalk.com.bd/media/recruiter/organization/logo/DGFPMAG_jRuP4nc.png"
+  },
+
+  {
+    "title": "Modern Frontend Development with Node.js",
+    "subtitle": "A compendium for modern JavaScript web development within the Node.js ecosystem",
+    "_id": "87",
+    "status": "AdmitCardDownload",
+    "image": "https://alljobs.teletalk.com.bd/media/recruiter/organization/logo/DGFPMAG_jRuP4nc.png"
+  },
+  {
+    "title": "Modern Frontend Development with Node.js",
+    "subtitle": "A compendium for modern JavaScript web development within the Node.js ecosystem",
+    "_id": "89",
+    "status": "AdmitCardDownload",
+    "image": "https://alljobs.teletalk.com.bd/media/recruiter/organization/logo/DGFPMAG_jRuP4nc.png"
+  },
+
+  {
+    "title": "Modern Frontend Development with Node.js",
+    "subtitle": "A compendium for modern JavaScript web development within the Node.js ecosystem",
+    "_id": "90",
+    "status": "AdmitCardDownload",
+    "image": "https://alljobs.teletalk.com.bd/media/recruiter/organization/logo/DGFPMAG_jRuP4nc.png"
+  },
+
+  {
+    "title": "Modern Frontend Development with Node.js",
+    "subtitle": "A compendium for modern JavaScript web development within the Node.js ecosystem",
+    "_id": "91",
+    "status": "AdmitCardDownload",
+    "image": "https://alljobs.teletalk.com.bd/media/recruiter/organization/logo/DGFPMAG_jRuP4nc.png"
+  },
+  {
+    "title": "Modern Frontend Development with Node.js",
+    "subtitle": "A compendium for modern JavaScript web development within the Node.js ecosystem",
+    "_id": "92",
+    "status": "AdmitCardDownload",
+    "image": "https://alljobs.teletalk.com.bd/media/recruiter/organization/logo/DGFPMAG_jRuP4nc.png"
+  },
+
+  {
+    "title": "Modern Frontend Development with Node.js",
+    "subtitle": "A compendium for modern JavaScript web development within the Node.js ecosystem",
+    "_id": "93",
+    "status": "AdmitCardDownload",
+    "image": "https://alljobs.teletalk.com.bd/media/recruiter/organization/logo/DGFPMAG_jRuP4nc.png"
+  },
+
+  {
+    "title": "Modern Frontend Development with Node.js",
+    "subtitle": "A compendium for modern JavaScript web development within the Node.js ecosystem",
+    "_id": "94",
+    "status": "AdmitCardDownload",
+    "image": "https://alljobs.teletalk.com.bd/media/recruiter/organization/logo/DGFPMAG_jRuP4nc.png"
+  },
+  {
+    "title": "Modern Frontend Development with Node.js",
+    "subtitle": "A compendium for modern JavaScript web development within the Node.js ecosystem",
+    "_id": "95",
+    "status": "AdmitCardDownload",
+    "image": "https://alljobs.teletalk.com.bd/media/recruiter/organization/logo/DGFPMAG_jRuP4nc.png"
+  },
+
+  {
+    "title": "Modern Frontend Development with Node.js",
+    "subtitle": "A compendium for modern JavaScript web development within the Node.js ecosystem",
+    "_id": "96",
+    "status": "AdmitCardDownload",
+    "image": "https://alljobs.teletalk.com.bd/media/recruiter/organization/logo/DGFPMAG_jRuP4nc.png"
+  },
+
+  {
+    "title": "Modern Frontend Development with Node.js",
+    "subtitle": "A compendium for modern JavaScript web development within the Node.js ecosystem",
+    "_id": "97",
+    "status": "AdmitCardDownload",
+    "image": "https://alljobs.teletalk.com.bd/media/recruiter/organization/logo/DGFPMAG_jRuP4nc.png"
+  },
+  {
+    "title": "Modern Frontend Development with Node.js",
+    "subtitle": "A compendium for modern JavaScript web development within the Node.js ecosystem",
+    "_id": "98",
+    "status": "AdmitCardDownload",
+    "image": "https://alljobs.teletalk.com.bd/media/recruiter/organization/logo/DGFPMAG_jRuP4nc.png"
+  },
+
+  {
+    "title": "Modern Frontend Development with Node.js",
+    "subtitle": "A compendium for modern JavaScript web development within the Node.js ecosystem",
+    "_id": "99",
+    "status": "AdmitCardDownload",
+    "image": "https://alljobs.teletalk.com.bd/media/recruiter/organization/logo/DGFPMAG_jRuP4nc.png"
+  },
+
+  {
+    "title": "Modern Frontend Development with Node.js",
+    "subtitle": "A compendium for modern JavaScript web development within the Node.js ecosystem",
+    "_id": "100",
+    "status": "AdmitCardDownload",
+    "image": "https://alljobs.teletalk.com.bd/media/recruiter/organization/logo/DGFPMAG_jRuP4nc.png"
+  },
+  {
+    "title": "Modern Frontend Development with Node.js",
+    "subtitle": "A compendium for modern JavaScript web development within the Node.js ecosystem",
+    "_id": "101",
+    "status": "AdmitCardDownload",
+    "image": "https://alljobs.teletalk.com.bd/media/recruiter/organization/logo/DGFPMAG_jRuP4nc.png"
+  },
+
+  {
+    "title": "Modern Frontend Development with Node.js",
+    "subtitle": "A compendium for modern JavaScript web development within the Node.js ecosystem",
+    "_id": "102",
+    "status": "AdmitCardDownload",
+    "image": "https://alljobs.teletalk.com.bd/media/recruiter/organization/logo/DGFPMAG_jRuP4nc.png"
+  },
+
+  {
+    "title": "Modern Frontend Development with Node.js",
+    "subtitle": "A compendium for modern JavaScript web development within the Node.js ecosystem",
+    "_id": "103",
+    "status": "AdmitCardDownload",
+    "image": "https://alljobs.teletalk.com.bd/media/recruiter/organization/logo/DGFPMAG_jRuP4nc.png"
+  },
+  {
+    "title": "Modern Frontend Development with Node.js",
+    "subtitle": "A compendium for modern JavaScript web development within the Node.js ecosystem",
+    "_id": "104",
+    "status": "AdmitCardDownload",
+    "image": "https://alljobs.teletalk.com.bd/media/recruiter/organization/logo/DGFPMAG_jRuP4nc.png"
+  },
+
+  {
+    "title": "Modern Frontend Development with Node.js",
+    "subtitle": "A compendium for modern JavaScript web development within the Node.js ecosystem",
+    "_id": "105",
+    "status": "AdmitCardDownload",
+    "image": "https://alljobs.teletalk.com.bd/media/recruiter/organization/logo/DGFPMAG_jRuP4nc.png"
+  },
+
+  {
+    "title": "Modern Frontend Development with Node.js",
+    "subtitle": "A compendium for modern JavaScript web development within the Node.js ecosystem",
+    "_id": "106",
+    "status": "AdmitCardDownload",
+    "image": "https://alljobs.teletalk.com.bd/media/recruiter/organization/logo/DGFPMAG_jRuP4nc.png"
+  },
+  {
+    "title": "Modern Frontend Development with Node.js",
+    "subtitle": "A compendium for modern JavaScript web development within the Node.js ecosystem",
+    "_id": "107",
+    "status": "AdmitCardDownload",
+    "image": "https://alljobs.teletalk.com.bd/media/recruiter/organization/logo/DGFPMAG_jRuP4nc.png"
+  },
+
+  {
+    "title": "Modern Frontend Development with Node.js",
+    "subtitle": "A compendium for modern JavaScript web development within the Node.js ecosystem",
+    "_id": "108",
+    "status": "AdmitCardDownload",
+    "image": "https://alljobs.teletalk.com.bd/media/recruiter/organization/logo/DGFPMAG_jRuP4nc.png"
+  },
+
+  {
+    "title": "Modern Frontend Development with Node.js",
+    "subtitle": "A compendium for modern JavaScript web development within the Node.js ecosystem",
+    "_id": "109",
+    "status": "AdmitCardDownload",
+    "image": "https://alljobs.teletalk.com.bd/media/recruiter/organization/logo/DGFPMAG_jRuP4nc.png"
+  },
+  {
+    "title": "Modern Frontend Development with Node.js",
+    "subtitle": "A compendium for modern JavaScript web development within the Node.js ecosystem",
+    "_id": "110",
+    "status": "AdmitCardDownload",
+    "image": "https://alljobs.teletalk.com.bd/media/recruiter/organization/logo/DGFPMAG_jRuP4nc.png"
+  },
+
+  {
+    "title": "Modern Frontend Development with Node.js",
+    "subtitle": "A compendium for modern JavaScript web development within the Node.js ecosystem",
+    "_id": "111",
+    "status": "AdmitCardDownload",
+    "image": "https://alljobs.teletalk.com.bd/media/recruiter/organization/logo/DGFPMAG_jRuP4nc.png"
+  },
+
+  {
+    "title": "Modern Frontend Development with Node.js",
+    "subtitle": "A compendium for modern JavaScript web development within the Node.js ecosystem",
+    "_id": "112",
+    "status": "AdmitCardDownload",
+    "image": "https://alljobs.teletalk.com.bd/media/recruiter/organization/logo/DGFPMAG_jRuP4nc.png"
+  },
+  {
+    "title": "Modern Frontend Development with Node.js",
+    "subtitle": "A compendium for modern JavaScript web development within the Node.js ecosystem",
+    "_id": "113",
+    "status": "AdmitCardDownload",
+    "image": "https://alljobs.teletalk.com.bd/media/recruiter/organization/logo/DGFPMAG_jRuP4nc.png"
+  },
+
+  {
+    "title": "Modern Frontend Development with Node.js",
+    "subtitle": "A compendium for modern JavaScript web development within the Node.js ecosystem",
+    "_id": "114",
+    "status": "AdmitCardDownload",
+    "image": "https://alljobs.teletalk.com.bd/media/recruiter/organization/logo/DGFPMAG_jRuP4nc.png"
+  },
+
+  {
+    "title": "Modern Frontend Development with Node.js",
+    "subtitle": "A compendium for modern JavaScript web development within the Node.js ecosystem",
+    "_id": "115",
+    "status": "AdmitCardDownload",
+    "image": "https://alljobs.teletalk.com.bd/media/recruiter/organization/logo/DGFPMAG_jRuP4nc.png"
+  },
+  {
+    "title": "Modern Frontend Development with Node.js",
+    "subtitle": "A compendium for modern JavaScript web development within the Node.js ecosystem",
+    "_id": "116",
+    "status": "AdmitCardDownload",
+    "image": "https://alljobs.teletalk.com.bd/media/recruiter/organization/logo/DGFPMAG_jRuP4nc.png"
+  },
+
+  {
+    "title": "Modern Frontend Development with Node.js",
+    "subtitle": "A compendium for modern JavaScript web development within the Node.js ecosystem",
+    "_id": "117",
+    "status": "AdmitCardDownload",
+    "image": "https://alljobs.teletalk.com.bd/media/recruiter/organization/logo/DGFPMAG_jRuP4nc.png"
+  },
+
+  {
+    "title": "Modern Frontend Development with Node.js",
+    "subtitle": "A compendium for modern JavaScript web development within the Node.js ecosystem",
+    "_id": "118",
+    "status": "AdmitCardDownload",
+    "image": "https://alljobs.teletalk.com.bd/media/recruiter/organization/logo/DGFPMAG_jRuP4nc.png"
+  },
+  {
+    "title": "Modern Frontend Development with Node.js",
+    "subtitle": "A compendium for modern JavaScript web development within the Node.js ecosystem",
+    "_id": "119",
+    "status": "AdmitCardDownload",
+    "image": "https://alljobs.teletalk.com.bd/media/recruiter/organization/logo/DGFPMAG_jRuP4nc.png"
+  },
+
+  {
+    "title": "Modern Frontend Development with Node.js",
+    "subtitle": "A compendium for modern JavaScript web development within the Node.js ecosystem",
+    "_id": "120",
+    "status": "AdmitCardDownload",
+    "image": "https://alljobs.teletalk.com.bd/media/recruiter/organization/logo/DGFPMAG_jRuP4nc.png"
+  },
+
+  {
+    "title": "Modern Frontend Development with Node.js",
+    "subtitle": "A compendium for modern JavaScript web development within the Node.js ecosystem",
+    "_id": "121",
+    "status": "AdmitCardDownload",
+    "image": "https://alljobs.teletalk.com.bd/media/recruiter/organization/logo/DGFPMAG_jRuP4nc.png"
+  },
+  {
+    "title": "Modern Frontend Development with Node.js",
+    "subtitle": "A compendium for modern JavaScript web development within the Node.js ecosystem",
+    "_id": "123",
+    "status": "AdmitCardDownload",
+    "image": "https://alljobs.teletalk.com.bd/media/recruiter/organization/logo/DGFPMAG_jRuP4nc.png"
+  },
+
+  {
+    "title": "Modern Frontend Development with Node.js",
+    "subtitle": "A compendium for modern JavaScript web development within the Node.js ecosystem",
+    "_id": "124",
+    "status": "AdmitCardDownload",
+    "image": "https://alljobs.teletalk.com.bd/media/recruiter/organization/logo/DGFPMAG_jRuP4nc.png"
+  },
+
+  {
+    "title": "Modern Frontend Development with Node.js",
+    "subtitle": "A compendium for modern JavaScript web development within the Node.js ecosystem",
+    "_id": "125",
+    "status": "AdmitCardDownload",
+    "image": "https://alljobs.teletalk.com.bd/media/recruiter/organization/logo/DGFPMAG_jRuP4nc.png"
+  },
+  {
+    "title": "Modern Frontend Development with Node.js",
+    "subtitle": "A compendium for modern JavaScript web development within the Node.js ecosystem",
+    "_id": "126",
+    "status": "AdmitCardDownload",
+    "image": "https://alljobs.teletalk.com.bd/media/recruiter/organization/logo/DGFPMAG_jRuP4nc.png"
+  },
+
+  {
+    "title": "Modern Frontend Development with Node.js",
+    "subtitle": "A compendium for modern JavaScript web development within the Node.js ecosystem",
+    "_id": "127",
+    "status": "JobMagazine",
+    "image": "https://alljobs.teletalk.com.bd/media/recruiter/organization/logo/DGFPMAG_jRuP4nc.png"
+  },
+
+  {
+    "title": "Modern Frontend Development with Node.js",
+    "subtitle": "A compendium for modern JavaScript web development within the Node.js ecosystem",
+    "_id": "128",
+    "status": "JobMagazine",
+    "image": "https://alljobs.teletalk.com.bd/media/recruiter/organization/logo/DGFPMAG_jRuP4nc.png"
+  },
+
+  {
+    "title": "Modern Frontend Development with Node.js",
+    "subtitle": "A compendium for modern JavaScript web development within the Node.js ecosystem",
+    "_id": "129",
+    "status": "JobMagazine",
+    "image": "https://alljobs.teletalk.com.bd/media/recruiter/organization/logo/DGFPMAG_jRuP4nc.png"
+  },
+
+  {
+    "title": "Modern Frontend Development with Node.js",
+    "subtitle": "A compendium for modern JavaScript web development within the Node.js ecosystem",
+    "_id": "230",
+    "status": "JobMagazine",
+    "image": "https://alljobs.teletalk.com.bd/media/recruiter/organization/logo/DGFPMAG_jRuP4nc.png"
+  }
+]
